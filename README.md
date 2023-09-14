@@ -1,4 +1,4 @@
-# major_project
+# Application to Perform Self-Care Activities
 
 Traditional mental health services are highly effective but cannot be scaled up to meet the growing demands of those affected. 
 Conversational agents, also known as chatbots, are a recent development that have been effectively applied to the field of mental health care as a scalable platform for cross-platform smartphone applications to offer such people first-level help. 
