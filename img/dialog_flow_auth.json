@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-for-mental-health-kppk",
+  "private_key_id": "1ef64cf655447d60caf8f663d552dfa66958ce68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDerTNB9Ut34AVz\nkdRnpfDcZnU0dH7Obl7yGqIBcy6Y1OHiRUnULvDwGiUjwkkABmLfYi2WhxyLDbEZ\nt8NdG3tMXYHIP1oK0ClVfSiYatZiVt8bFrSDH6ZWegBYWyTxx34AlnL4D/txYiWW\n1CBUQKmAAQ9IXJ40hMR2/HslXqomO+flxAkGwOvA9RfvclwZpggSnyT6fxUhGiGU\ndah860Q6DMCiSCPXIWsB7pbZlHEPGKt+OvPM0PE9w0lu+FPBIQh2FR5urpT4kbdY\n99hcOlqQ4nbj/xcLnTxe3DrOxrbHgcosigsj/lhXi4tlhEeq3yGAL2jH+oyk2sxt\n9QG9yDCNAgMBAAECggEAJbUDH8lzouRE0A3y/602NQBFmyEaAwdmHQ28/s1cJ+Wu\nrYQJrTxYsPPgc6Z3+aDbN9QWf623++UQ5xe65aaccbFI45m0u+2FflRAHlVDIepv\ng9ULssOWhYDJ06x1fFrJf7x6Uf7U152k215m7hV4DnS/e4Oxh5eu9C4rhUe7PNdp\nrVrx3cv09DV+VijdP2Ik+K0jszevan0euLgq41s9oLdAcuIQI6BY1xm3N7keqLYd\nFKcoOzpD9PlgPSI6yermP8fdsqd0XbfH/jYWUtfpvCX8uQaXDotvavDoyxTthfir\nwd1xR6EsIhsFqOArGzgZoWys8syI3FvyeITEdaTU2QKBgQD5J7z37RsQNv2Ix/We\nyMvoZZFsiJbrdfv6Tkkpmb0Jm7zC36v6MM3covvZk49em1bYnM3KgbrQaqdTvr2U\nKdkmQ3mFX0QXTe+SGD5F8TCzHJfuJZOqabfxjlfHE41Brn01XwXmf/heacu77Zje\n24bujHJkAzho4qVj3wxnHOMuhQKBgQDkyz4baWK2kDPJuzJn5t0x8aqA039i0gyu\nNmpThP9vuiQFNT01qGoSLmC2ldUJRm2x2ls/ALFr99HSJAqzOSYHH/7IrWXLz28/\nWS+2art8vjB1hD3IbWe8Q7dFSllROs7CSqMCm749t+fTq0uenjeOTjhjSJFb+K0N\nnU2bSzJsaQKBgGBubefzH/ddoTEQW1MyWiE/NlKwZuEJEBZnuE9ejliqqxstYK17\nuCF9/0XNo761Fp7NyaRoI3rI3Kw/9bXjoIT7tovVPFBcvK1prqh5WiTomzDz4Dwj\noKrgMb7+JTzXoORIO8tjmihIgC7jHbibdJTdTOTCjlGh7utBh9ZcytzVAoGBAMTe\nParIm7ALlQRYl57gACUhlV0Un+AgbdjZ6dPD9SfmO2hfzzOEnwDV91IkyxMYDvui\nsDEeH4yPyXPQn4RoAFjRJyL2UUl2THtt+qg0Xu+Pl5MHH0J/IWvVuLVerExBFfgI\n0QtFiAUDYe+4zXDHI3bHx61mm+1PpVi5qjWeFt1BAoGAMM+vTc4GINdGW5fv2BLw\nM5KfCrIY3UXSEOhObkV5n0LF8duvFmxlmhAVlGlsaWWy6nmIcsgeOZ+Mik5d4PE6\n7zIFhekYwJW+qXr9AlJMvaQHcdFAm3C7he0nHQ1z8i7HgiVmeXiPjrNJ59ZXE+Jn\n4EkBFmd8CHy00Nvhx09oZxA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mentalhealth-chatbot@chatbot-for-mental-health-kppk.iam.gserviceaccount.com",
+  "client_id": "111928973627426470087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mentalhealth-chatbot%40chatbot-for-mental-health-kppk.iam.gserviceaccount.com"
+}
